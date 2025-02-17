@@ -1,13 +1,14 @@
 import "./App.css";
+import { Auth } from "./components/auth";
 
 function App() {
 	return (
 		<div>
-			<p className="font-bold underline">Hola</p>
+			<Auth />
+			{/* <button></button>
+			<p className="font-bold underline">Hola</p> */}
 		</div>
 	);
 }
 
 export default App;
-
-
