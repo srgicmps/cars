@@ -14,3 +14,7 @@ Created project, added react with vite, added tailwindcss and uploaded to github
 ## 17/02/2025
 
 Created firebase project + firestore + auth
+
+## 20/02/2025
+
+Created all the pages + register and login, started routes setting up routes, created the navigation and created the register and login forms working with the authentication of firebase.
