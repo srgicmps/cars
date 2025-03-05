@@ -18,3 +18,18 @@ Created firebase project + firestore + auth
 ## 20/02/2025
 
 Created all the pages + register and login, started routes setting up routes, created the navigation and created the register and login forms working with the authentication of firebase.
+
+## 05/03/2025
+
+-   Separado navbar a su propio componente
+-   Añadido ruta para ver detalles de un tema específico
+-   Implementado redirección automática para URLs no encontradas
+-   Añadida funcionalidad de búsqueda en tiempo real
+-   Creado componente Searchbar
+-   Implementada búsqueda de coches por marca
+-   Añadida funcionalidad de búsqueda insensible a mayúsculas/minúsculas
+-   Mejorada la visualización de resultados de búsqueda
+-   Añadida página de detalles del coche
+-   Implementada edición y eliminación de coches
+-   Mejorado formulario de edición y creación
+-   WIP: Bug en el formulario (recordar)
