@@ -103,7 +103,7 @@ caReact es una aplicación web desarrollada como proyecto final para el módulo 
 
 El código al haberse creado con Vite+React viene la estructura default de Vite.
 
-Dentro de la carpeta source (/src), tneemos tres carpetas principales:
+Dentro de la carpeta source (/src), tenemos tres carpetas principales:
 
     Componentes:
         Contiene componentes reutilizables que se utilizan en varias partes de la aplicación.
@@ -115,12 +115,12 @@ Dentro de la carpeta source (/src), tneemos tres carpetas principales:
 ## Mejoras futuras (ideas)
 
 -   Implementar un sistema de paginación para el catálogo.
--   Mejorar validaciones en formulario de vehículos
+-   Mejorar validaciones en formulario de vehículos.
 -   Añadir sistema de autenticación ya empezado y no acabado.
--   Desarrollar un panel de administración estaría top.
+-   Desarrollar un panel de administración.
 -   Permitir subir imágenes y no cogerlas de internet. (Firebase Storage pero vale dinero)
--   Implementar modo oscuro
--   Implementar sistema de comentarios
+-   Implementar modo oscuro.
+-   Implementar sistema de comentarios.
 
 ## Autor
 
