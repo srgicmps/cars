@@ -99,7 +99,7 @@ caReact es una aplicación web desarrollada como proyecto final para el módulo 
 2. Instal·la las dependencias
 3. Inicia el servidor de desarrollo con "npm run dev"
 
-## Organización del códgido (Estructura)
+## Organización del código (Estructura)
 
 El código al haberse creado con Vite+React viene la estructura default de Vite.
 
